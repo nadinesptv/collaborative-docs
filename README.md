@@ -163,10 +163,15 @@ resources/
 
 ---
 
+---
+Nama : Nadine Septia Vynola
+Nim : 240180026
+---
+
 ## 📝 Lisensi
 
 Project ini dibuat untuk keperluan pembelajaran. Bebas digunakan dan dimodifikasi.
 
 ---
 
-> Dibuat dengan ❤️ menggunakan Laravel 12 + Reverb
+

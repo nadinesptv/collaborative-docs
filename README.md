@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# 📄 Google Docs Clone
+# 📄 My Document
 
 Aplikasi kolaborasi dokumen real-time berbasis web yang dibangun dengan **Laravel 12**, **Laravel Reverb**, dan **Vite**. Memungkinkan beberapa pengguna mengedit dokumen yang sama secara bersamaan dengan sinkronisasi konten dan live cursor.
 

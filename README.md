@@ -162,9 +162,8 @@ resources/
 - Composer
 
 ---
-
----
 Nama : Nadine Septia Vynola
+
 Nim : 240180026
 ---
 
